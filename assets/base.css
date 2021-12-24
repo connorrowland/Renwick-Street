@@ -1,3 +1,24 @@
+/* Custom Fonts */
+
+@font-face {
+	font-family: "Canela Light";
+	src: url("Canela-Light-Web.woff2") format("woff2"), url("Canela-Light-Web.woff") format("woff");
+}
+
+@font-face {
+	font-family: "Inter Light";
+	src: url("Inter-Light.woff2") format("woff2"), url("Inter-Light.woff") format("woff");
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Canela Light" !important;
+}
+  
+p {
+  font-family: "Inter Light" !important;
+}
+  
+
 /* Color custom properties */
 
 :root,
