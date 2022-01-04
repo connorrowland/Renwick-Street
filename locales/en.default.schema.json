@@ -1831,6 +1831,42 @@
             "label": "Center"
           }
         },
+        "column_heading_style": {
+          "label": "Column heading style",
+          "options__1": {
+            "label": "H1"
+          },
+          "options__2": {
+            "label": "H2"
+          },
+          "options__3": {
+            "label": "H3"
+          }
+        },
+        "column_text_alignment": {
+          "label": "Column text alignment",
+          "options__1": {
+            "label": "Left"
+          },
+          "options__2": {
+            "label": "Right"
+          },
+          "options__3": {
+            "label": "Center"
+          }
+        },
+        "column_content_vertical_alignment": {
+          "label": "Column content vertical alignment",
+          "options__1": {
+            "label": "Top"
+          },
+          "options__2": {
+            "label": "Center"
+          },
+          "options__3": {
+            "label": "Bottom"
+          }
+        },
         "background_style": {
           "label": "Secondary background",
           "options__1": {
@@ -1848,6 +1884,9 @@
         },
         "button_link": {
           "label": "Button link"
+        },
+        "multicolumn_section_margin": {
+          "label": "Enable section margin"
         },
         "swipe_on_mobile": {
           "label": "Enable swipe on mobile"

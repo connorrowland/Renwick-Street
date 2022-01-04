@@ -55,6 +55,7 @@
 
 .multicolumn-list {
   margin-bottom: 0;
+  margin-top: 0;
   padding: 0;
 }
 
@@ -62,12 +63,12 @@
   max-width: 72rem;
 }
 
-.multicolumn:not(.background-none) .multicolumn-card {
+.multicolumn:not(.background-none)  {
   background: rgba(var(--color-foreground), 0.04);
   height: 100%;
 }
 
-.multicolumn.background-secondary .multicolumn-card {
+.multicolumn.background-secondary  {
   background: rgb(var(--color-background));
 }
 
