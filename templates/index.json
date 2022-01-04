@@ -8,6 +8,9 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Mask_Group.png",
             "title": "",
+            "column_heading_style": "h1",
+            "column_text_alignment": "center",
+            "column_content_vertical_alignment": "center",
             "text": "",
             "link_label": "",
             "link": ""
@@ -17,6 +20,9 @@
           "type": "column",
           "settings": {
             "title": "Renwick Gallery",
+            "column_heading_style": "h1",
+            "column_text_alignment": "center",
+            "column_content_vertical_alignment": "center",
             "text": "",
             "link_label": "",
             "link": ""
@@ -35,6 +41,8 @@
         "background_style": "none",
         "button_label": "",
         "button_link": "",
+        "color_scheme": "background-1",
+        "multicolumn_section_margin": false,
         "swipe_on_mobile": false
       }
     },
@@ -184,6 +192,9 @@
           "type": "column",
           "settings": {
             "title": "Column",
+            "column_heading_style": "h1",
+            "column_text_alignment": "left",
+            "column_content_vertical_alignment": "top",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -193,6 +204,9 @@
           "type": "column",
           "settings": {
             "title": "Column",
+            "column_heading_style": "h1",
+            "column_text_alignment": "left",
+            "column_content_vertical_alignment": "top",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -202,6 +216,9 @@
           "type": "column",
           "settings": {
             "title": "Column",
+            "column_heading_style": "h1",
+            "column_text_alignment": "left",
+            "column_content_vertical_alignment": "top",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
@@ -221,6 +238,8 @@
         "background_style": "primary",
         "button_label": "Button label",
         "button_link": "",
+        "color_scheme": "background-1",
+        "multicolumn_section_margin": true,
         "swipe_on_mobile": false
       }
     }
